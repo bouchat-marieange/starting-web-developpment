@@ -5,14 +5,13 @@ body
 
 .page
 {
-  /*width: 60%*/
   margin: auto;
 }
 
 section
 {
   background-color: #fff;
-  width: 70%;
+  width: 500px;
   margin: auto;
   padding: 15px;
   font-family: 'Montserrat', sans-serif;
@@ -34,6 +33,13 @@ h2
   color: #817f7e;
   text-align: center;
   margin-top: 15px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+h2 span
+{
+  background-color: #d4d4d4;
 }
 
 p
@@ -41,9 +47,9 @@ p
   color: #817f7e;
   font-size: 1em;
   text-align: justify;
+  font-weight: 400;
+  font-size: 15px;
 }
-
-
 
 .photo_tim
 {
@@ -53,4 +59,19 @@ p
   border-radius: 50%;
   margin: auto;
   margin-top:20px;
+}
+
+.bouton a
+{
+  display: block;
+  margin: auto;
+  width: 30%;
+  height: 50px;
+  background-color: #dd5555;
+  border-radius:5px;
+  line-height: 50px;
+  text-decoration: none;
+  text-align: center;
+  font-weight: 700;
+  color: #fff;
 }
