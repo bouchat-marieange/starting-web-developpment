@@ -78,26 +78,48 @@ p
 
 ul
 {
-
+  list-style-type: none;
+  size: 50px;
+  padding: 0;
+  margin: 0 auto;
+  display: block;
+  /*width: 268px;*/
+  margin: auto;
+  /*height: 80px;
+  line-height: 80px;*/
+  /*display: block;
+  margin: auto;*/
 }
 
 li
 {
-
+  width: 50px;
+  /*margin: auto;*/
+  display: inline-block;
+  width:100px;
+  margin: auto;
 }
 
-.fa fa-facebook
+li a
 {
+  /*width: 50px;
+  margin: auto;*/
+  text-decoration: none;
   color: #817f7e;
-  size: 300%;
+  text-align: center;
+  /*size: 30px;*/
 }
 
-.fa fa-linkedin
+i.fa.fa-facebook.fa-2x::before, i.fa.fa-linkedin.fa-2x::before, i.fa.fa-twitter.fa-2x::before
 {
-  color: #817f7e;
+  /*width: 50px;
+  margin: auto;*/
+  color: red;
+  text-align: center;
 }
 
-.fa fa-twitter
+.social
 {
-  color: #817f7e;
+  /*width: 500px;*/
+  /*margin: auto;*/
 }
