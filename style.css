@@ -1,0 +1,56 @@
+body
+{
+  background-color: #ebebeb;
+}
+
+.page
+{
+  /*width: 60%*/
+  margin: auto;
+}
+
+section
+{
+  background-color: #fff;
+  width: 70%;
+  margin: auto;
+  padding: 15px;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 20px;
+  box-shadow: 2px 2px 5px #817f7e;
+  border-radius: 5px;
+}
+
+h1
+{
+  color: #dd5555;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 200;
+}
+
+h2
+{
+  color: #817f7e;
+  text-align: center;
+  margin-top: 15px;
+}
+
+p
+{
+  color: #817f7e;
+  font-size: 1em;
+  text-align: justify;
+}
+
+
+
+.photo_tim
+{
+  display: block;
+  width: 30%;
+  border: #cccccc 5px solid;
+  border-radius: 50%;
+  margin: auto;
+  margin-top:20px;
+}
