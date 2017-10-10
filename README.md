@@ -21,4 +21,4 @@ Lorsque j'ai copier mon code enregister dans le docs et envoyer sur GitHub et Gi
  * Approfondissement du mode de positionnement flexbox jusqu’à bien maîtriser celui-ci.
  * Bien lire la documentation du site http://fontawesome.io/, ainsi que les différentes manières de le mettre en place (lien vers site ou téléchargement de bibliothèque) et de manipuler les icônes, car c’est vraiment un outil très intéressant dont on aura besoin régulièrement.
  
-Notes: [Le fichier README.md du repository Learning Environnement](https://github.com/bouchat-marieange/Learning-Environment/blob/master/README.md) reprend d'autres informations concernant ce les problèmes que j'ai rencontrés lors de la réalisation des exercices HTML-CSS, les manières d'y remédier et toutes les choses que j'ai appris grâce à cela.
+Notes: [Le fichier README.md du repository Learning Environnement](https://github.com/bouchat-marieange/Learning-Environment/blob/master/README.md) reprend d'autres informations concernant les problèmes que j'ai rencontrés en général lors de la réalisation des exercices HTML-CSS, les manières d'y remédier et toutes les choses que j'ai appris grâce à cela.
