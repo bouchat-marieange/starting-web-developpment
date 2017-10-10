@@ -25,7 +25,7 @@ h1
   color: #dd5555;
   text-align: center;
   margin-top: 15px;
-  font-size: 200;
+  font-size: 25px;
 }
 
 h2
@@ -34,7 +34,7 @@ h2
   text-align: center;
   margin-top: 15px;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 h3
@@ -103,7 +103,6 @@ li
 li a
 {
   text-decoration: none;
-  /*color: #817f7e;*/
   color: #e5e5e5;
 }
 
@@ -159,4 +158,22 @@ i.fa.fa-facebook.fa-2x::before, i.fa.fa-linkedin.fa-2x::before, i.fa.fa-twitter.
 .film h2
 {
   padding-bottom: 20px;
+}
+
+/*------------Reglages alignement bizarre entre affiche et texte s'y rapportant------------*/
+
+h3#titre_hulot
+{
+  margin-top:35px;
+}
+
+h3#titre_alien
+{
+  margin-top: 15px;
+}
+
+p#texte_alien
+{
+  line-height: 28px;
+  letter-spacing: 0.2px;
 }
